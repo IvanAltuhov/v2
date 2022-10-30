@@ -3,3 +3,5 @@
 tmp.log
  *.iml
  .idea
+/out
+.idea/.gitignore
